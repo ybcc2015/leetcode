@@ -1,2 +1,9 @@
-# leetcode
-Leetcode Journey with Python（燃烧吧，脑细胞！）
+LeetCode
+========
+
+### LeetCode Algorithm
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/TwoSum/twoSum.py)|Easy|
