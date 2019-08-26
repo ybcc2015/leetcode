@@ -12,3 +12,4 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArrays/medianOfTwoSortedArrays.py)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/LongestPalindromicSubstring/longestPalindromicSubstring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion/zigZagConversion.py)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger/reverseInteger.py)|Easy|
