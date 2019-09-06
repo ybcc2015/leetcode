@@ -13,3 +13,4 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/LongestPalindromicSubstring/longestPalindromicSubstring.py)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion/zigZagConversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger/reverseInteger.py)|Easy|
+|8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/Atoi/atoi.py)|Medium|
