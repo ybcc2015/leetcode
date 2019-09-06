@@ -36,21 +36,21 @@
 """
 
 
-def atoi(str: str) -> int:
-    str = str.strip()
+def atoi(s: str) -> int:
+    s = s.strip()
     digits = '0123456789'
     signs = '-+'
-    if not str or str[0] not in signs + digits:
+    if not s or s[0] not in signs + digits:
         return 0
 
     sign = 1
-    if str[0] in signs:
-        if str[0] == '-':
+    if s[0] in signs:
+        if s[0] == '-':
             sign = -1
-        str = str[1:]
+        s = s[1:]
 
     res = 0
-    for c in str:
+    for c in s:
         if c not in digits:
             break
         res = res * 10 + int(c)
