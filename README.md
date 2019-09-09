@@ -14,3 +14,4 @@ LeetCode
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion/zigZagConversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger/reverseInteger.py)|Easy|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/Atoi/atoi.py)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber/palindromeNumber.py)|Easy|
