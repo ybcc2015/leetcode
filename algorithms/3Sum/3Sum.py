@@ -29,7 +29,7 @@ def three_sum(nums):
     pos = sorted([n for n in nums if n > 0])
     pos_set = set(pos)
     neg = sorted([n for n in nums if n < 0])
-    net_set = set(neg)
+    neg_set = set(neg)
     zero = [n for n in nums if n == 0]
 
     # case 1: (0,0,0)
@@ -38,7 +38,7 @@ def three_sum(nums):
 
     # case 2: (n,0,p)
     if len(zero) > 0:
-        for n in net_set:
+        for n in neg_set:
             if -n in pos_set:
                 res.add((n, 0, -n))
 
@@ -53,7 +53,7 @@ def three_sum(nums):
     for i in range(len(pos)):
         for j in range(i+1, len(pos)):
             p = pos[i] + pos[j]
-            if -p in net_set:
+            if -p in neg_set:
                 res.add((-p, pos[i], pos[j]))
 
     return list(res)
