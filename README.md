@@ -17,4 +17,5 @@ LeetCode
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber/palindromeNumber.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/ContainerWithMostWater/containerWithMostWater.py)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/LongestCommonPrefix/longestCommonPrefix.py)|Easy|
-|15|[3 Sum](https://leetcode.com/problems/3sum/) | [Python](./algorithms/3Sum/3Sum.py)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Python](./algorithms/3Sum/3Sum.py)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./algorithms/3SumClosest/3SumClosest.py)|Medium|
