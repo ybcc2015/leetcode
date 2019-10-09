@@ -25,5 +25,4 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/ValidParentheses/validParentheses.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/GenerateParentheses/generateParentheses.py)|Medium|
-
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
