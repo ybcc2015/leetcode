@@ -26,4 +26,5 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/GenerateParentheses/generateParentheses.py)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/MergeKSortedLists/mergeKSortedLists.py)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./algorithms/SwapNodesInPairs/swapNodesInPairs.py)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
