@@ -29,4 +29,5 @@ LeetCode
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./algorithms/SwapNodesInPairs/swapNodesInPairs.py)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/RemoveElement/removeElement.py)|Easy|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/ImplementStrStr/strStr.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
