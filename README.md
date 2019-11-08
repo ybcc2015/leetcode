@@ -30,4 +30,5 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/RemoveElement/removeElement.py)|Easy|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/ImplementStrStr/strStr.py)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/MaximumSubarray/maximumSubarray.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
