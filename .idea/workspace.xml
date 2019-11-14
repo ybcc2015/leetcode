@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8772f8cc-f98a-4d00-b9f9-567b3ab3aea6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="searchInsertPosition.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generateParentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="60" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="401">
+                <caret line="34" selection-start-line="34" selection-end-line="34" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -53,6 +53,7 @@
       <find>r</find>
       <find>net_set</find>
       <find>list_node</find>
+      <find>l1</find>
     </findStrings>
     <replaceStrings>
       <replace>left</replace>
@@ -62,6 +63,7 @@
       <replace>right</replace>
       <replace>neg_set</replace>
       <replace>head</replace>
+      <replace>l</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -92,7 +94,14 @@
         <option value="$PROJECT_DIR$/algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py" />
         <option value="$PROJECT_DIR$/algorithms/ValidParentheses/validParentheses.py" />
         <option value="$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py" />
+        <option value="$PROJECT_DIR$/algorithms/MergeKSortedLists/mergeKSortedLists.py" />
+        <option value="$PROJECT_DIR$/algorithms/SwapNodesInPairs/SwapNodesInPairs.py" />
+        <option value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py" />
+        <option value="$PROJECT_DIR$/algorithms/RemoveElement/removeElement.py" />
+        <option value="$PROJECT_DIR$/algorithms/ImplementStrStr/strStr.py" />
+        <option value="$PROJECT_DIR$/algorithms/MaximumSubarray/maximumSubarray.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py" />
       </list>
     </option>
   </component>
@@ -123,13 +132,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="GenerateParentheses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="ValidParentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="MergeKSortedLists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.generateParentheses">
-    <configuration name="4sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.searchInsertPosition">
+    <configuration name="maximumSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,17 +166,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/4Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/MaximumSubarray" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="H:\jupyter_workspace\Self-improvement\leetcode\algorithms\4Sum\4Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/MaximumSubarray/maximumSubarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="generateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removeDuplicatesFromSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,17 +184,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/GenerateParentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mergeTwoSorteLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removeElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,17 +202,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/MergeTwoSortedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveElement" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveElement/removeElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="removeNthNodeFromEndofList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="searchInsertPosition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,17 +220,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveNthNodeFromEndofList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/SearchInsertPosition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="validParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="strStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,30 +238,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ValidParentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ImplementStrStr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ValidParentheses/validParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ImplementStrStr/strStr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.4sum" />
-      <item itemvalue="Python.removeNthNodeFromEndofList" />
-      <item itemvalue="Python.validParentheses" />
-      <item itemvalue="Python.mergeTwoSorteLists" />
-      <item itemvalue="Python.generateParentheses" />
+      <item itemvalue="Python.removeDuplicatesFromSortedArray" />
+      <item itemvalue="Python.removeElement" />
+      <item itemvalue="Python.strStr" />
+      <item itemvalue="Python.maximumSubarray" />
+      <item itemvalue="Python.searchInsertPosition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.generateParentheses" />
-        <item itemvalue="Python.validParentheses" />
-        <item itemvalue="Python.mergeTwoSorteLists" />
-        <item itemvalue="Python.removeNthNodeFromEndofList" />
-        <item itemvalue="Python.4sum" />
+        <item itemvalue="Python.searchInsertPosition" />
+        <item itemvalue="Python.maximumSubarray" />
+        <item itemvalue="Python.strStr" />
+        <item itemvalue="Python.removeElement" />
+        <item itemvalue="Python.removeDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +285,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18161435" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23305786" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36694214" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3289256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,61 +329,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="368">
-            <caret line="16" column="115" selection-start-line="16" selection-start-column="115" selection-end-line="16" selection-end-column="115" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/PalindromeNumber/palindromeNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/LongestPalindromicSubstring/longestPalindromicSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="368">
-            <caret line="16" column="115" selection-start-line="16" selection-start-column="115" selection-end-line="16" selection-end-column="115" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/PalindromeNumber/palindromeNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/LongestPalindromicSubstring/longestPalindromicSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/Atoi/atoi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/LongestPalindromicSubstring/longestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -606,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/MinimumPathSum/minimumPathSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-253">
@@ -655,31 +596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/MedianOfTwoSortedArrays/medianOfTwoSortedArrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/AddTwoNumbers/addTwoNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1610">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1426">
           <caret line="62" column="21" selection-start-line="61" selection-start-column="27" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -692,16 +612,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="60" />
+        <state>
+          <caret selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/AddTwoNumbers/addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/SwapNodesInPairs/swapNodesInPairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/RemoveElement/removeElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/ImplementStrStr/strStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/MinimumPathSum/minimumPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/MedianOfTwoSortedArrays/medianOfTwoSortedArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/MergeKSortedLists/mergeKSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/MaximumSubarray/maximumSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="401">
+            <caret line="34" selection-start-line="34" selection-end-line="34" />
           </first_editor>
           <second_editor />
         </state>
