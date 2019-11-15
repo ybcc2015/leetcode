@@ -31,6 +31,7 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/RemoveElement/removeElement.py)|Easy|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/ImplementStrStr/strStr.py)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./algorithms/FindFirstAndLastPositionOfElementInSortedArray/findFirstAndLastPositionOfElementInSortedArray.py)|Medium|
-|35|[Maximum Subarray](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/SearchInsertPosition/searchInsertPosition.py)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/SearchInsertPosition/searchInsertPosition.py)|Easy|
+|42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [Python](./algorithms/TrappingRainWater/trappingRainWater.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/MaximumSubarray/maximumSubarray.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
