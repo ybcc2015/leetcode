@@ -35,5 +35,6 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [Python](./algorithms/TrappingRainWater/trappingRainWater.py)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/Permutations/permutations.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./algorithms/RotateImage/rotateImage.py)|Medium|
+|50|[Pow(x,n)](https://leetcode.com/problems/powx-n/) | [Python](./algorithms/Pow/pow.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/MaximumSubarray/maximumSubarray.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
