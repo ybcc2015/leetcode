@@ -12,6 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,6 +29,7 @@
       <find>r</find>
       <find>net_set</find>
       <find>list_node</find>
+      <find>l1</find>
     </findStrings>
     <replaceStrings>
       <replace>left</replace>
@@ -37,12 +39,15 @@
       <replace>right</replace>
       <replace>neg_set</replace>
       <replace>head</replace>
+      <replace>l</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="ProjectId" id="1TWADBbzdRfboM6gCBs6wd4rsT9" />
+
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -59,8 +64,10 @@
       </list>
     </option>
   </component>
+
   <component name="RunManager" selected="Python.findFirstAndLastPositionOfElementInSortedArray">
     <configuration name="findFirstAndLastPositionOfElementInSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,6 +75,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/FindFirstAndLastPositionOfElementInSortedArray" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -81,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removeDuplicatesFromSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/GenerateParentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/GenerateParentheses/generateParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mergeTwoSorteLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removeElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/MergeTwoSortedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveElement" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/MergeTwoSortedLists/mergeTwoSorteLists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveElement/removeElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removeNthNodeFromEndofList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="searchInsertPosition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveNthNodeFromEndofList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/SearchInsertPosition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="validParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="strStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ValidParentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ImplementStrStr" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ValidParentheses/validParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ImplementStrStr/strStr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,6 +174,7 @@
       <method v="2" />
     </configuration>
     <list>
+
       <item itemvalue="Python.removeNthNodeFromEndofList" />
       <item itemvalue="Python.validParentheses" />
       <item itemvalue="Python.mergeTwoSorteLists" />
@@ -195,6 +204,7 @@
     </task>
     <servers />
   </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
