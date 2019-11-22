@@ -37,4 +37,5 @@ LeetCode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./algorithms/RotateImage/rotateImage.py)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/) | [Python](./algorithms/Pow/pow.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/MaximumSubarray/maximumSubarray.py)|Easy|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/jumpGame.py)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
