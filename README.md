@@ -43,3 +43,4 @@ LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/MinimumPathSum/minimumPathSum.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/PlusOne/plusOne.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./algorithms/AddBinary/addBinary.py)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/ClimbingStairs/climbingStairs.py)|Easy|
