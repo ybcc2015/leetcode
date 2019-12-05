@@ -44,3 +44,4 @@ LeetCode
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/PlusOne/plusOne.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./algorithms/AddBinary/addBinary.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/ClimbingStairs/climbingStairs.py)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./algorithms/RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.py)|Easy|
