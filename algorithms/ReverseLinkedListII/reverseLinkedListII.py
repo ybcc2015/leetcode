@@ -28,7 +28,7 @@ def reverseBetween(head, m, n):
     :rtype: ListNode
     """
     post = None
-    
+
     def _reverseN(head, n):
         nonlocal post
         if n == 1:
