@@ -20,20 +20,6 @@ class ListNode(object):
         self.next = None
 
 
-post = None
-
-
-def reverseN(head, n):
-    global post
-    if n == 1:
-        post = head.next
-        return head
-    last = reverseN(head.next, n - 1)
-    head.next.next = head
-    head.next = post
-    return last
-
-
 def reverseBetween(head, m, n):
     """
     :type head: ListNode
@@ -41,9 +27,22 @@ def reverseBetween(head, m, n):
     :type n: int
     :rtype: ListNode
     """
+    post = None
+    
+    def _reverseN(head, n):
+        nonlocal post
+        if n == 1:
+            post = head.next
+            return head
+        last = _reverseN(head.next, n - 1)
+        head.next.next = head
+        head.next = post
+        return last
+
     if m == 1:
-        return reverseN(head, n)
+        return _reverseN(head, n)
     head.next = reverseBetween(head.next, m - 1, n-1)
+
     return head
 
 
