@@ -51,5 +51,7 @@ LeetCode
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/BinaryTreeInorderTraversal/binaryTreeInorderTraversal.py)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./algorithms/SameTree/sameTree.py)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/SymmetricTree/symmetricTree.py)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./algorithms/BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.py)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/MaximumDepthOfBinaryTree/maximumDepthOfBinaryTree.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/ReverseLinkedList/reverseLinkedList.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
