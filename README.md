@@ -57,5 +57,7 @@ LeetCode
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](algorithms/ConstructBinaryTreeFromInorderAndPostorderTraversal/solution.py)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](algorithms/BinaryTreeLevelOrderTraversalII/solution.py)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](algorithms/MinimumDepthOfBinaryTree/solution.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](algorithms/PascalsTriangle/solution.py)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](algorithms/PascalsTriangleII/solution.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/ReverseLinkedList/reverseLinkedList.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
