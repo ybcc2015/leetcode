@@ -59,5 +59,7 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](algorithms/MinimumDepthOfBinaryTree/solution.py)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](algorithms/PascalsTriangle/solution.py)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](algorithms/PascalsTriangleII/solution.py)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python](algorithms/BestTimeToBuyAndSellStock/solution.py)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](algorithms/BestTimeToBuyAndSellStockII/solution.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/ReverseLinkedList/reverseLinkedList.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
