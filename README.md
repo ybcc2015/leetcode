@@ -64,5 +64,8 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/submissions/) | [Python](algorithms/ValidPalindrome/solution.py)|Easy|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/) | [Python](./algorithms/SingleNumber/solution.py)|Easy|
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](./algorithms/SingleNumberII/solution.py)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/BinaryTreePreorderTraversal/solution.py)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/BinaryTreePostorderTraversal/solution.py)|Hard|
+|148|[Sort List](https://leetcode-cn.com/problems/sort-list/) | [Python](./algorithms/SortList/solution.py)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/ReverseLinkedList/reverseLinkedList.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
