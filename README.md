@@ -67,5 +67,6 @@ LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/BinaryTreePreorderTraversal/solution.py)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/BinaryTreePostorderTraversal/solution.py)|Hard|
 |148|[Sort List](https://leetcode-cn.com/problems/sort-list/) | [Python](./algorithms/SortList/solution.py)|Medium|
+|152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Python](./algorithms/MaximumProductSubarray/solution.py)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/ReverseLinkedList/reverseLinkedList.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
