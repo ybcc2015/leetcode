@@ -77,4 +77,5 @@ LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/KthLargestElementInAnArray/solution.py)|Medium|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [Python](./algorithms/ContainsDuplicate/solution.py)|Easy|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Python](./algorithms/ContainsDuplicateII/solution.py)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./algorithms/InvertBinaryTree/solution.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
