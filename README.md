@@ -86,3 +86,4 @@ LeetCode
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/CoinChange/coinChange.py)|Medium|
 |328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Python](./algorithms/Odd_Even_Linked_List/solution.py)|Medium|
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [Python](./algorithms/Reverse-String/solution.py)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/reverse-string/) | [Python](./algorithms/Intersection-of-Two-Arrays/solution.py)|Easy|
