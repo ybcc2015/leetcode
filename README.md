@@ -46,6 +46,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/ClimbingStairs/climbingStairs.py)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](./algorithms/RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./algorithms/RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.py)|Easy|
+|86|[Partition List](https://leetcode-cn.com/problems/partition-list/) | [Python](./algorithms/Partition-List/solution.py)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/MergeSortedArray/mergeSortedArray.py)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./algorithms/ReverseLinkedListII/reverseLinkedListII.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/BinaryTreeInorderTraversal/binaryTreeInorderTraversal.py)|Medium|
