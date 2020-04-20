@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8772f8cc-f98a-4d00-b9f9-567b3ab3aea6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="de694bc0-7793-471b-ab62-20a37d1a2627" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +11,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,37 +18,19 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>l</find>
-      <find>n</find>
-      <find>row</find>
-      <find>str</find>
-      <find>r</find>
-      <find>net_set</find>
-      <find>list_node</find>
-      <find>l1</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>left</replace>
-      <replace>row</replace>
-      <replace>row_index</replace>
-      <replace>s</replace>
-      <replace>right</replace>
-      <replace>neg_set</replace>
-      <replace>head</replace>
-      <replace>l</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="ProjectId" id="1TWADBbzdRfboM6gCBs6wd4rsT9" />
-
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../py_data_mining" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\leetcode\algorithms" />
+      <recent name="E:\leetcode\algorithms\KthLargestElementInAnArray" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,10 +44,8 @@
       </list>
     </option>
   </component>
-
-  <component name="RunManager" selected="Python.findFirstAndLastPositionOfElementInSortedArray">
-    <configuration name="findFirstAndLastPositionOfElementInSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
-
+  <component name="RunManager" selected="Python.solution">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/FindFirstAndLastPositionOfElementInSortedArray" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/Odd_Even_Linked_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/FindFirstAndLastPositionOfElementInSortedArray/findFirstAndLastPositionOfElementInSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/Odd_Even_Linked_List/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removeDuplicatesFromSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ContainsDuplicateII" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ContainsDuplicateII/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removeElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/RemoveElement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/PowerOfTwo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/RemoveElement/removeElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/PowerOfTwo/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searchInsertPosition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/SearchInsertPosition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ProductOfArrayExceptSelf" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/SearchInsertPosition/searchInsertPosition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ProductOfArrayExceptSelf/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ImplementStrStr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/Intersection-of-Two-Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ImplementStrStr/strStr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/Intersection-of-Two-Arrays/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,20 +151,19 @@
       <method v="2" />
     </configuration>
     <list>
-
-      <item itemvalue="Python.removeNthNodeFromEndofList" />
-      <item itemvalue="Python.validParentheses" />
-      <item itemvalue="Python.mergeTwoSorteLists" />
-      <item itemvalue="Python.generateParentheses" />
-      <item itemvalue="Python.findFirstAndLastPositionOfElementInSortedArray" />
+      <item itemvalue="Python.solution (3)" />
+      <item itemvalue="Python.solution (4)" />
+      <item itemvalue="Python.solution (5)" />
+      <item itemvalue="Python.solution (1)" />
+      <item itemvalue="Python.solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.findFirstAndLastPositionOfElementInSortedArray" />
-        <item itemvalue="Python.generateParentheses" />
-        <item itemvalue="Python.validParentheses" />
-        <item itemvalue="Python.mergeTwoSorteLists" />
-        <item itemvalue="Python.removeNthNodeFromEndofList" />
+        <item itemvalue="Python.solution" />
+        <item itemvalue="Python.solution (1)" />
+        <item itemvalue="Python.solution (5)" />
+        <item itemvalue="Python.solution (4)" />
+        <item itemvalue="Python.solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +172,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8772f8cc-f98a-4d00-b9f9-567b3ab3aea6" name="Default" comment="" />
+      <changelist id="de694bc0-7793-471b-ab62-20a37d1a2627" name="Default Changelist" comment="" />
       <created>1565772882705</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -204,13 +180,14 @@
     </task>
     <servers />
   </component>
-
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
